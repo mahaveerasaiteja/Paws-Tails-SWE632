@@ -1,0 +1,16 @@
+{
+    "john@doe.com": {
+        "firstName": "John",
+                "lastName": "Doe",
+                "phoneNumber": 1234056789,
+                "email": "john@doe.com",
+                "password": "John@1234"
+    },
+    "hp@hogwart.com": {
+        "firstName": "Harry",
+                "lastName": "Potter",
+                "phoneNumber": 2233445566,
+                "email": "hp@hogwart.com",
+                "password": "Hp@223344"
+    }
+}
